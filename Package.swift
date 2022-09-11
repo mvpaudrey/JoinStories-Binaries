@@ -32,7 +32,7 @@ let package = Package(
         .binaryTarget(
             name: "JoinStoriesSDK",
             url: "https://github.com/mvpaudrey/JoinStories-Binaries/raw/spm/Releases/1.0.2/JoinStoriesSDK-1.0.2.zip",
-            checksum: "e87e69993ad5720fe0c3c763a83f4c231136df31aee69a16e94870bdad2a2444"
+            checksum: "9df6db7692147097381bf70776c1d7b0c02cef1e343515de0f15059fffdb48cc"
         ),
     ],
     swiftLanguageVersions: [.v5]
