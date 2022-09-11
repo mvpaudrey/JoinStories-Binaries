@@ -31,7 +31,7 @@ let package = Package(
         ),
         .binaryTarget(
             name: "JoinStoriesSDK",
-            url: "https://github.com/mvpaudrey/JoinStories-Binaries/raw/main/JoinStoriesSDK/JoinStoriesSDK.zip",
+            url: "https://github.com/mvpaudrey/JoinStories-Binaries/raw/spm/Releases/1.0.1/JoinStoriesSDK.zip",
             checksum: "8e7810770ff4a2ccfcc55cb7c77e444d3c04ad99792f7a93ea12074fa71f6b73"
         ),
     ],
